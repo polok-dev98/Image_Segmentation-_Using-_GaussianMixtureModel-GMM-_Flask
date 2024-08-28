@@ -25,7 +25,7 @@ Gaussian Mixture Models assume that the data points (in this case, pixel values)
 - Choose the number of clusters for segmentation using Gaussian Mixture Models (GMM).
 - View the original, segmented, and binary images in the browser.
 
-  ## Technologies Used
+## Technologies Used
 
 - **Python**: The core programming language.
 - **Flask**: Web framework used for building the web application.
@@ -34,7 +34,7 @@ Gaussian Mixture Models assume that the data points (in this case, pixel values)
 - **Scikit-learn**: Machine learning library used for Gaussian Mixture Models (GMM).
 - **HTML/CSS**: For frontend development.
 
-  ### Installation
+## Installation
 
 1. **Clone the repository:**
 
@@ -51,7 +51,7 @@ Gaussian Mixture Models assume that the data points (in this case, pixel values)
     ```bash
     python app.py
 
-### Output Sample
+## Output Sample
 
 ![image](https://github.com/user-attachments/assets/287d68ec-ab37-4429-90e1-6df38c52d0bf)
 
